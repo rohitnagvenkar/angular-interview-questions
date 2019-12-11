@@ -2330,31 +2330,3 @@
 
 163. ### What is the role of template compiler for prevention of XSS attacks?
      The offline template compiler prevents vulnerabilities caused by template injection, and greatly improves application performance. So it is recommended to use offline template compiler in production deployments without dynamically generating any template.
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-164. ### ?
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-165. ### ?
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-166. ### ?
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-167. ### ?
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-168. ### ?
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-169. ### ?
-
-    **[⬆ Back to Top](#table-of-contents)**
-
-
