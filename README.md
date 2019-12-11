@@ -2324,7 +2324,8 @@
   
 
 162. ### What is Angular security model for preventing XSS attacks?
-    Angular treats all values as untrusted by default. i.e, Angular sanitizes and escapes untrusted values When a value is inserted into the DOM from a template, via property, attribute, style, class binding, or interpolation.
+    Angular treats all values as untrusted by default. i.e, Angular sanitizes and escapes untrusted values 
+    When a value is inserted into the DOM from a template, via property, attribute, style, class binding, or interpolation.
 
   
 
